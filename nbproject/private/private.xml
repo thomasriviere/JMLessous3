@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/build.xml</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/index.jsp</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/SiteWeb/accueil.html</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/WEB-INF/siteWeb.css</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/src/java/JMLessous/servlet/CreateClientServlet.java</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/WEB-INF/web.xml</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/src/conf/persistence.xml</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/contacts.html</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/src/java/JMLessous/servlet/VerifierCoServlet.java</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/src/java/JMLessous/entity/Client.java</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/Credits.jsp</file>
+            <file>file:/Users/thomas/Documents/MAM5/GenieLogiciel/NetBeans/JMLessous3/web/inscription.jsp</file>
+        </group>
+    </open-files>
+</project-private>

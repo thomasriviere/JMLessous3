@@ -1,0 +1,48 @@
+body
+{
+	background-image: url(./Images/fond.jpg);
+}
+
+#en_tete
+{
+	float: center;
+	text-align: center;
+}
+
+#presentation
+{
+	text-align: center;
+	float: right;
+	margin-right: 25%;
+	border: 2px solid black;
+	width: 50%;
+	background-color: OldLace;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#Produits
+{
+	text-align: left;
+}
+h1
+{
+	text-align: center;
+	color: MidnightBlue;
+}
+
+#connexion
+{
+	text-align : center;
+	width: 11%;
+	float: center;
+	background-color: OldLace;
+	border: 2px solid black;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#infos
+{
+	font-size: 12px;
+}
+

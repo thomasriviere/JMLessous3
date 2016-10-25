@@ -1,0 +1,56 @@
+body
+{
+	background-image: url(Images/fond.jpg);
+}
+
+
+#en_tete
+{
+	float: center;
+	text-align: center;
+}
+
+#InfosPerso
+{
+	width: 50%;
+	text-align: center;
+	margin-left: 25%;
+	background-color: white;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#VosJustificatifs
+{
+	width: 50%;
+	text-align: center;
+	background-color: OldLace;
+	margin-left: 25%;
+	float: center;
+	background-color: white;
+	border: 2px solid black;
+	margin-bottom: 20px;
+	
+}
+
+#userName
+{
+	width: 50%;
+	text-align: center;
+	margin-left: 25%;
+	background-color: white;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#submit
+{
+    text-align : center;
+}
+
+#pied_de_page
+{
+	text-align: left;
+	float: bottom;
+
+}
